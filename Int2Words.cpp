@@ -32,7 +32,6 @@ return "";
 };
 int  main(){
 
-
 int n = 123;
 Solution ques;
  string ans = ques.numberToWords(n);
